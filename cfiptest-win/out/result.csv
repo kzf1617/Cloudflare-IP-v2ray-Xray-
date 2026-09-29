@@ -1,0 +1,21 @@
+﻿ip,port,region,colo,delay_ms,speed_mbps,kind,status,note
+104.17.12.72,443,LAX,LAX,803.5,0.15,ws+origin,200,originated ok
+190.93.244.145,443,LAX,LAX,890.7,0.05,ws+origin,200,originated ok
+103.31.4.19,443,DEN,DEN,899.5,1.27,ws+origin,200,originated ok
+104.17.51.44,443,LAX,LAX,1008.6,0.19,ws+origin,200,originated ok
+103.31.4.254,443,DEN,DEN,1055.4,0.45,ws+origin,200,originated ok
+103.31.4.84,443,DEN,DEN,1119.2,0.51,ws+origin,200,originated ok
+190.93.246.252,443,LAX,LAX,1186.8,0.08,ws+origin,200,originated ok
+104.19.48.211,443,LAX,LAX,1292.3,0.16,ws+origin,200,originated ok
+162.159.136.253,443,FRA,FRA,1309.9,0.98,ws+origin,200,originated ok
+104.16.161.252,443,LAX,LAX,1319.6,0.08,ws+origin,200,originated ok
+103.21.244.156,443,LAX,LAX,1322.3,,ws+origin,200,originated ok
+103.31.4.103,443,DEN,DEN,1335.1,,ws+origin,200,originated ok
+103.31.4.154,443,DEN,DEN,1403.3,,ws+origin,200,originated ok
+172.66.168.34,443,FRA,FRA,1411.1,,ws+origin,200,originated ok
+103.21.244.5,443,LAX,LAX,1429.4,,ws+origin,200,originated ok
+188.114.98.242,443,AMS,AMS,1436.0,,ws+origin,200,originated ok
+188.114.97.249,443,AMS,AMS,1478.4,,ws+origin,200,originated ok
+103.31.4.29,443,DEN,DEN,1489.4,,ws+origin,200,originated ok
+190.93.245.101,443,LAX,LAX,1510.2,,ws+origin,200,originated ok
+103.21.244.43,443,LAX,LAX,1520.3,,ws+origin,200,originated ok

@@ -1,0 +1,222 @@
+[
+  {
+    "ip": "104.17.12.72",
+    "port": 443,
+    "region": "LAX",
+    "colo": "LAX",
+    "delay_ms": 803.5,
+    "speed_mbps": 0.15281627337606354,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "190.93.244.145",
+    "port": 443,
+    "region": "LAX",
+    "colo": "LAX",
+    "delay_ms": 890.7,
+    "speed_mbps": 0.05023650360772487,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "103.31.4.19",
+    "port": 443,
+    "region": "DEN",
+    "colo": "DEN",
+    "delay_ms": 899.5,
+    "speed_mbps": 1.2727249818048614,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "104.17.51.44",
+    "port": 443,
+    "region": "LAX",
+    "colo": "LAX",
+    "delay_ms": 1008.6,
+    "speed_mbps": 0.19269152812248375,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "103.31.4.254",
+    "port": 443,
+    "region": "DEN",
+    "colo": "DEN",
+    "delay_ms": 1055.4,
+    "speed_mbps": 0.453542167733517,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "103.31.4.84",
+    "port": 443,
+    "region": "DEN",
+    "colo": "DEN",
+    "delay_ms": 1119.2,
+    "speed_mbps": 0.5086382672627735,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "190.93.246.252",
+    "port": 443,
+    "region": "LAX",
+    "colo": "LAX",
+    "delay_ms": 1186.8,
+    "speed_mbps": 0.08309071530924439,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "104.19.48.211",
+    "port": 443,
+    "region": "LAX",
+    "colo": "LAX",
+    "delay_ms": 1292.3,
+    "speed_mbps": 0.16462368618457499,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "162.159.136.253",
+    "port": 443,
+    "region": "FRA",
+    "colo": "FRA",
+    "delay_ms": 1309.9,
+    "speed_mbps": 0.9825430592002466,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "104.16.161.252",
+    "port": 443,
+    "region": "LAX",
+    "colo": "LAX",
+    "delay_ms": 1319.6,
+    "speed_mbps": 0.08320856906491661,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "103.21.244.156",
+    "port": 443,
+    "region": "LAX",
+    "colo": "LAX",
+    "delay_ms": 1322.3,
+    "speed_mbps": null,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "103.31.4.103",
+    "port": 443,
+    "region": "DEN",
+    "colo": "DEN",
+    "delay_ms": 1335.1,
+    "speed_mbps": null,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "103.31.4.154",
+    "port": 443,
+    "region": "DEN",
+    "colo": "DEN",
+    "delay_ms": 1403.3,
+    "speed_mbps": null,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "172.66.168.34",
+    "port": 443,
+    "region": "FRA",
+    "colo": "FRA",
+    "delay_ms": 1411.1,
+    "speed_mbps": null,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "103.21.244.5",
+    "port": 443,
+    "region": "LAX",
+    "colo": "LAX",
+    "delay_ms": 1429.4,
+    "speed_mbps": null,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "188.114.98.242",
+    "port": 443,
+    "region": "AMS",
+    "colo": "AMS",
+    "delay_ms": 1436.0,
+    "speed_mbps": null,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "188.114.97.249",
+    "port": 443,
+    "region": "AMS",
+    "colo": "AMS",
+    "delay_ms": 1478.4,
+    "speed_mbps": null,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "103.31.4.29",
+    "port": 443,
+    "region": "DEN",
+    "colo": "DEN",
+    "delay_ms": 1489.4,
+    "speed_mbps": null,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "190.93.245.101",
+    "port": 443,
+    "region": "LAX",
+    "colo": "LAX",
+    "delay_ms": 1510.2,
+    "speed_mbps": null,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  },
+  {
+    "ip": "103.21.244.43",
+    "port": 443,
+    "region": "LAX",
+    "colo": "LAX",
+    "delay_ms": 1520.3,
+    "speed_mbps": null,
+    "kind": "ws+origin",
+    "status": 200,
+    "note": "originated ok"
+  }
+]
